@@ -9,7 +9,7 @@ Tiny GEDCOM parser.
 ### Usage
 
 ````javascript
-import { Parser } from '@thoughtsunificator/gedcom-parser'
+import { Parser } from 'https://deno.land/x/gedcom_parser/index.js'
 
 const records = Parser.parse(`0 HEAD
 1 GEDC
@@ -32,11 +32,3 @@ const records = Parser.parse(`0 HEAD
 `)
 
 ````
-
-## API
-
-See [https://thoughtsunificator.github.io/gedcom-parser](https://thoughtsunificator.github.io/gedcom-parser).
-
-## Try it out!
-
-See [https://codesandbox.io/s/gedcom-parser-m11io](https://codesandbox.io/s/gedcom-parser-m11io).
