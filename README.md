@@ -4,8 +4,6 @@ Tiny GEDCOM parser.
 
 ## Getting Started
 
-### Installing
-
 ### Usage
 
 ````javascript
